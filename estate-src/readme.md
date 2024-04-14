@@ -8,6 +8,7 @@ Django REST framework is a powerful and flexible toolkit for building Web APIs.
 Python package that allows you to use [Twelve-factor methodology](https://www.12factor.net/) to configure your Django application with environment variables.
 
 ### django-filter=21.1
+Provides filtering supp for django rest Framework
 Django-filter is a generic, reusable application to alleviate writing some of the more mundane bits of view code. Specifically, it allows users to filter down a queryset based on a model’s fields, displaying the form to let them do this.
 
 ### django-autoslug=1.9.8
