@@ -65,3 +65,31 @@ isort is a Python utility / library to sort imports alphabetically and automatic
 
 ### add ```django.contrib.sites``` , SITE_ID, THIRD_PARTY_APPS, LOCAL_APPS and INSTALLED_APPS
 
+## Configure PostreSQL server and create databse
+
+# Django Login
+## Good logging is critical to debugging 
+### Python logging module is resposible for system loging in Django
+### Python Logging Components are - Loggers , Handlers , Filters and Formaters
+
+## Logger Level - 
+### Debug - Low level system infomation
+### INFO - General system information
+### Warning - Minor problem occured
+### Error - Major problem occured
+### Critical - Critical problem occured
+
+## Handlers -
+- Determines what happens to each message in a logger
+### FileHandler
+### StreamHandler
+### SMTPHandler
+
+## Filters
+- Determines which log records pass from loggers to handler
+- Filter log messages based on e.g. - log levels etc.
+- Can be applied to both loggers and handlers
+
+## Formatters
+- Describe exact format of text
+- Format and convert log records
