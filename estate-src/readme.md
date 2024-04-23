@@ -93,3 +93,18 @@ isort is a Python utility / library to sort imports alphabetically and automatic
 ## Formatters
 - Describe exact format of text
 - Format and convert log records
+
+# Custom User
+## Abstract User - have existing user model and just want to remove user name field
+## Abstract BaseUser - Use this to start from scratch by creating completely new user model
+
+# UUIDs - Universally Unique IDentifier
+
+- Obscure ID's, making it virtually impossible for attackers to guess ID's
+- Obscure Foreign Keys references
+- Allow for horizontal partioning without key collision or rekeying concerns
+
+## Disadvantages
+- At scale, they cause massive insert performance issues
+- no quick "sort by id" chronology available
+- disadvantage can be avoided using pseudo primary key
