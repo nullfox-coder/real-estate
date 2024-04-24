@@ -113,3 +113,17 @@ isort is a Python utility / library to sort imports alphabetically and automatic
 - Serializers allow complex data such as querysets and model instances to be converted to native Python datatypes that can then be easily rendered into JSON, XML or other content types. Serializers also provide deserialization, allowing parsed data to be converted back into complex types, after first validating the incoming data.
 
 - The serializers in REST framework work very similarly to Django's Form and ModelForm classes. We provide a Serializer class which gives you a powerful, generic way to control the output of your responses, as well as a ModelSerializer class which provides a useful shortcut for creating serializers that deal with model instances and querysets.
+
+## Token Based Authentification
+
+### Djoser 
+- provides API endpoints for registration, login/logout, password change/reset, social auth etc.
+
+
+## mailtrap.io
+- SMTP server design to run in dev or test environment
+- Design to champ an email the app is sending and displays it in web interface instead of sending it to user.
+- It helps to prevents any test email sending to real people no matter what address is provided.
+
+## send grid
+- SendGrid provides an SMTP service that allows you to deliver your email via their servers instead of your own client or server. This means we can count on SendGrid's delivery at scale for our SMTP needs.
