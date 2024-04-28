@@ -128,8 +128,13 @@ isort is a Python utility / library to sort imports alphabetically and automatic
 ## send grid
 - SendGrid provides an SMTP service that allows you to deliver your email via their servers instead of your own client or server. This means we can count on SendGrid's delivery at scale for our SMTP needs.
 
-# API Testing
+## API Testing
 
-## Postman
-## 
+### Postman
+
+
+## Exception handlers and renderers
+- exception  handlers allows errors to be handling cleanly
+- renderers allow us to return reponses with various media types.
+
 
