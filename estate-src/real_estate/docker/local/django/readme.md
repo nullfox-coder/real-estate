@@ -5,5 +5,5 @@
 
 - build containers
 ```docker compose up --build -d --remove-orphans```
-- down containers
+- bring down containers
 ```docker compose down```

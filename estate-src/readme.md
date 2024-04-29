@@ -143,3 +143,8 @@ isort is a Python utility / library to sort imports alphabetically and automatic
 ### Containers - Containers are an isolated environment to run any code.
 ### Containerisation - Containerization is a process of packaging your application together with its dependencies into one package (a container). Such a package can then be run pretty much anywhere, no matter if it's an on-premises server, a virtual machine in the cloud, or a developer's laptop.
 ### Docker file - It is a text file that contains instructions, at times called commands or directives, which dictate how to create a Docker image.
+
+## makefile 
+- make is a traditional Unix utility which reads a Makefile to decide what programs to run to reach a particular goal. Typically, that goal is to build a piece of software from a set of source files and libraries; but make is general enough to be used for various other tasks, too, like assembling a PDF from a collection of TeX source files, or retrieving the newest versions of each of a list of web pages.
+ cmd eg - ```MinGW32-make build```
+
