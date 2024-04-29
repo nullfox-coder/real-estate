@@ -138,3 +138,8 @@ isort is a Python utility / library to sort imports alphabetically and automatic
 - renderers allow us to return reponses with various media types.
 
 
+# Configure Djagno Application with Docker
+## Install Docker Desktop
+### Containers - Containers are an isolated environment to run any code.
+### Containerisation - Containerization is a process of packaging your application together with its dependencies into one package (a container). Such a package can then be run pretty much anywhere, no matter if it's an on-premises server, a virtual machine in the cloud, or a developer's laptop.
+### Docker file - It is a text file that contains instructions, at times called commands or directives, which dictate how to create a Docker image.
