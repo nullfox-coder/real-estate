@@ -148,3 +148,13 @@ isort is a Python utility / library to sort imports alphabetically and automatic
 - make is a traditional Unix utility which reads a Makefile to decide what programs to run to reach a particular goal. Typically, that goal is to build a piece of software from a set of source files and libraries; but make is general enough to be used for various other tasks, too, like assembling a PDF from a collection of TeX source files, or retrieving the newest versions of each of a list of web pages.
  cmd eg - ```MinGW32-make build```
 
+## PEP 518
+- defines pyproject.toml as a configuration file to store build system requirements for python projects
+
+## black - 
+### Black is a tool that can reformat Python code. It's remarkable for it's lack of configuration
+## ishort -
+### isort is a Python utility / library to sort imports alphabetically, and automatically separated into sections and by type. It provides a command line utility, Python library and plugins for various editors to quickly sort all our imports.
+
+## flake8 - 
+### Flake8 will output any errors or violations it detects, along with a line number and a description of the issue. By default, Flake8 checks for errors and violations of PEP 8 style guidelines.

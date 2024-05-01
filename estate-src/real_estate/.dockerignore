@@ -1,14 +1,14 @@
-**/.idea
-**/.coverage*
-**/.celerybeat.pid*
-**/.classpath
-**/.dockerignore
-**/.env
-**/.git
-**/.gitignore
-**/.project
-**/.settings
-**/.toolstarget
+# **/.idea
+# **/.coverage*
+# **/.celerybeat.pid*
+# **/.classpath
+# **/.dockerignore
+# **/.env
+# **/.git
+# **/.gitignore
+# **/.project
+# **/.settings
+# **/.toolstarget
 **/.vs
 **/.vscode
 **/*.*proj.user
