@@ -158,3 +158,17 @@ isort is a Python utility / library to sort imports alphabetically and automatic
 
 ## flake8 - 
 ### Flake8 will output any errors or violations it detects, along with a line number and a description of the issue. By default, Flake8 checks for errors and violations of PEP 8 style guidelines.
+
+# Intro To Django Testing
+
+### Pytest or Django based inbuilt test framework
+## Intro to Django Testing
+1. Write a test
+2. Run the test, ensure it fails
+3. Write some code to make test pass
+4. Reactor if possible
+
+### pytest-django - pytest-django is a plugin for pytest that provides a set of useful tools for testing Django applications and projects.
+### pytest-factoryboy - pytest-factoryboy makes it easy to combine factory approach to the test setup with the dependency injection, heart of the pytest fixtures.
+### Faker - Faker is a Python package that generates fake data
+### pytest-cov  - measuring code coverage of Python programs. It monitors our program, noting which parts of the code have been executed, then analyzes the source to identify code that could have been executed but was not. Coverage measurement is typically used to gauge the effectiveness of tests.
