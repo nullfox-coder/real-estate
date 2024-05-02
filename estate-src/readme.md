@@ -172,3 +172,14 @@ isort is a Python utility / library to sort imports alphabetically and automatic
 ### pytest-factoryboy - pytest-factoryboy makes it easy to combine factory approach to the test setup with the dependency injection, heart of the pytest fixtures.
 ### Faker - Faker is a Python package that generates fake data
 ### pytest-cov  - measuring code coverage of Python programs. It monitors our program, noting which parts of the code have been executed, then analyzes the source to identify code that could have been executed but was not. Coverage measurement is typically used to gauge the effectiveness of tests.
+
+# NGINX -
+### Django backend server - Port-8000
+### React client - Port-3000
+- In a docker container we want backend and client to interact on single port
+- we will use nginx as reverse proxy to solve this.
+- we will also use nginx to server static files.
+![alt text](image.png)
+
+
+
