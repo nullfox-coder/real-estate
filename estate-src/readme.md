@@ -181,5 +181,11 @@ isort is a Python utility / library to sort imports alphabetically and automatic
 - we will also use nginx to server static files.
 ![alt text](image.png)
 
+# Celery
+- Is an open source,, asynchronous task queue that's often used with Python-based web frameworks like Django to manage background work outside the typical request/response cycle.
+## Redis
+ - Redis is a source-available, in-memory storage, used as a distributed, in-memory key–value database, cache and message broker, with optional durability.
+## flower
+- Flower is an open-source web application for monitoring and managing Celery clusters. It provides real-time information about the status of Celery workers and tasks.
 
 
