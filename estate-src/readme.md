@@ -190,10 +190,11 @@ isort is a Python utility / library to sort imports alphabetically and automatic
 
 # Dependencies for React-Redux frontend
 ## Axios - Promise based http client
-## redux - Redux is an open-source JavaScript library for managing and centralizing application state.
+## react-icon
 ## react-redux - Redux is an open-source JavaScript library used to manage application state. React uses Redux for building the user interface.
 ## react-router-dom - React Router DOM is an npm package that enables us to implement dynamic routing in a web app. It allows us to display pages and allow users to navigate them. It is a fully-featured client and server-side routing library for React.
-## redux-devtools-extension - for debugging static changes.
-## redux thunk - Redux Thunk middleware allows us to write action creators that return a function instead of an action. The thunk can be used to delay the dispatch of an action, or to dispatch only if a certain condition is met.
+## react-devtools-extension - for debugging static changes.
+## react-toastify - React-Toastify allows you to add notifications to your app with ease.
+## react-bootstrap
 
 
